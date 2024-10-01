@@ -91,7 +91,9 @@ python gui_main.py
 
 ### 语音控制
 
-该软件可以使用语音对其进行简单控制，软件启动后默认打开，本项目使用科大讯飞对其进行语音唤醒，网站如下：https://console.xfyun.cn/services/awaken，语音唤醒特征词如下：
+该软件可以使用语音对其进行简单控制，软件启动后默认打开，本项目使用科大讯飞对其进行语音唤醒，网站如下：https://console.xfyun.cn/services/awaken
+
+语音唤醒特征词如下：
 
 
 | 唤醒词       | 功能                            |
