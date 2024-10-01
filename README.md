@@ -63,7 +63,7 @@ pip install -r requirment.txt
 
 ## 使用准备
 
-在电脑上下载Wireshark软件(https://www.wireshark.org/)，进入Wireshark，监控对应ip地址的以太网接口。打开软件界面：
+在电脑上下载Wireshark软件(https://www.wireshark.org/) 进入Wireshark，监控对应ip地址的以太网接口。打开软件界面：
 
 ```shell
 python gui_main.py
