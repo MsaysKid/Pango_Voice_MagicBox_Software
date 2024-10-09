@@ -83,7 +83,7 @@ python gui_main.py
 
 在两种输入模式下，点击“播放音频”后均可以点击保存音频来将音频信号保存到电脑上。
 
-**声纹识别**需要在板卡上进行操作，所有功能的详细操作可以观看b站视频https://www.bilibili.com/video/BV1UKpkeEEtX/。
+**声纹识别**需要在板卡上进行操作，所有功能的详细操作可以观看b站视频https://www.bilibili.com/video/BV1UKpkeEEtX/
 
 ### 谱图展示
 
