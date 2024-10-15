@@ -18,7 +18,8 @@ txt2music_noise_test.py
 /ui_source
 /Music
 /voice_print_main/Test_Music
-models/
 msc/
 classification_models/
 emotion_recog_models/
+classification_macls/models/__pycache__
+emotion_recog_macls/models/__pycache__
